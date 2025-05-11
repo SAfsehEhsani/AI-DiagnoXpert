@@ -1,6 +1,6 @@
 # AI-DiagnoXpert
 # A LLM-Powered Medical Insight & Diagnostic Assistant
-# DEMO : https://drive.google.com/file/d/1pBPe-fIaQHQ9vgPSU1zo4lFnXuaJa0j4/view?usp=sharing
+DEMO : https://drive.google.com/file/d/1pBPe-fIaQHQ9vgPSU1zo4lFnXuaJa0j4/view?usp=sharing
 
 AI DiagnoXpert is a Generative AI-driven medical assistant that delivers real-time, intelligent responses to medical queries, including symptoms, disease understanding, drug interactions, and preliminary diagnostics. 
 Built for medical students, healthcare professionals, and curious patients, it leverages cutting-edge LLMs and high-speed Groq inference to simulate expert-level assistance with conversational ease.
